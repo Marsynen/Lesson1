@@ -1,0 +1,2 @@
+Hello mary.
+Create one more file, named task3.txt. Fill out it some text and push again to GitHub.
